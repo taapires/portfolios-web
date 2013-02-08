@@ -1,0 +1,2 @@
+<br>
+<p style="font-size: 8px; text-align: center;">ajax asynchronous req test</p>
